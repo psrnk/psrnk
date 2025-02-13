@@ -8,9 +8,8 @@
 🚀 **Full-Stack Developer | AI & Blockchain Enthusiast | DevOps**  
 
 - 💻 Passionate about **Data Analysis, AI, and Blockchain**  
-- 🔭 Currently working on **[SECRET]**  
+- 🔭 Currently working on **AI-Agents**  
 - 🌱 Learning **Advanced DevOps & AI Model Deployment**  
-- ⚡ Fun fact: I automate everything I can!  
 
 📫 **Let's Connect!**  
 <!--
