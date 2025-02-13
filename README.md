@@ -1,6 +1,6 @@
 <!-- Banner / Header Image (Optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hey%2C+I'm+%5BYOUR+NAME%5D!;Full-Stack+Developer+%7C+AI+%7C+Blockchain+%7C+DevOps;Building+cool+projects+since+[YEAR];Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hey%2C+I'm+%5BPhilipp%5D!;Full-Stack+Developer+%7C+AI+%7C+Blockchain+%7C+DevOps;Building+cool+projects+since+[2019];Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 ---
 
